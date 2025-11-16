@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "Sentry": {
+      "url": "https://mcp.sentry.dev/mcp/giggler-tech/giggler_reactnative_food_ordering",
+      "type": "http"
+    }
+  }
+}
