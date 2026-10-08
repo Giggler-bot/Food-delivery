@@ -3,5 +3,7 @@
     "source.fixAll": "explicit",
     "source.organizeImports": "explicit",
     "source.sortMembers": "explicit"
-  }
+  },
+  "workbench.colorTheme": "Dark Modern",
+  "workbench.iconTheme": "material-icon-theme"
 }
